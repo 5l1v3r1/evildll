@@ -1,6 +1,6 @@
 # EvilDLL v1.0
-## Author: github.com/thelinuxchoice
-## Twitter: twitter.com/linux_choice
+## Author: https://github.com/thelinuxchoice/evildll
+## Twitter: https://twitter.com/linux_choice
 ### Read the license before using any part from this code :) 
 
 Malicious DLL (Win Reverse Shell) generator for DLL Hijacking
